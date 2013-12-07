@@ -1,0 +1,7 @@
+{
+  "name": "grunt-clinch",
+  "version": "0.1.0",
+  "dependencies": {
+    "clinch": "~0.4.1"
+  }
+}
