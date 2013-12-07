@@ -37,3 +37,6 @@ grunt.initConfig({
   }
 });
 ```
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/shuvalov-anton/grunt-clinch/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
